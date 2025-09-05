@@ -1,0 +1,13 @@
+# venv
+.venv/
+venv/
+# python cache
+__pycache__/
+*.pyc
+# dotenv
+.env
+# os/editor
+.DS_Store
+.vscode/
+# streamlit
+.streamlit/secrets.toml
